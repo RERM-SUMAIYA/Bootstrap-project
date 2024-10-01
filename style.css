@@ -1,0 +1,22 @@
+body{
+    background-color: aliceblue;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+.large-text{
+    font-weight: bold;
+    font-size: 64px;
+}
+
+::-webkit-scrollbar{
+    width: 5px;
+    height: 5px;
+} 
+
+::-webkit-scrollbar-thumb{
+    background: #F44335;
+}
